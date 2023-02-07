@@ -1,1 +1,1 @@
-First repo during probation period on alx
+Just an ordinary readme
